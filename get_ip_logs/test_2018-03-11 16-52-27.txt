@@ -1,0 +1,214 @@
+[2018-03-11 16:52:50,980] - page_downloader.py - [line:67] - [INFO]: new url
+[2018-03-11 16:52:50,981] - page_downloader.py - [line:90] - [INFO]: request http://www.data5u.com/free/gwpt/index.shtml, times: 1
+[2018-03-11 16:52:50,984] - page_downloader.py - [line:67] - [INFO]: new url
+[2018-03-11 16:52:50,984] - page_downloader.py - [line:90] - [INFO]: request http://www.data5u.com/free/gwgn/index.shtml, times: 1
+[2018-03-11 16:52:50,996] - page_downloader.py - [line:67] - [INFO]: new url
+[2018-03-11 16:52:50,997] - page_downloader.py - [line:90] - [INFO]: request http://www.data5u.com/free/gnpt/index.shtml, times: 1
+[2018-03-11 16:52:50,998] - page_downloader.py - [line:67] - [INFO]: new url
+[2018-03-11 16:52:50,998] - page_downloader.py - [line:90] - [INFO]: request http://www.data5u.com/free/gngn/index.shtml, times: 1
+[2018-03-11 16:52:51,011] - page_downloader.py - [line:67] - [INFO]: new url
+[2018-03-11 16:52:51,012] - page_downloader.py - [line:90] - [INFO]: request http://m.66ip.cn/9.html, times: 1
+[2018-03-11 16:52:51,013] - page_downloader.py - [line:67] - [INFO]: new url
+[2018-03-11 16:52:51,013] - page_downloader.py - [line:90] - [INFO]: request http://m.66ip.cn/8.html, times: 1
+[2018-03-11 16:52:51,015] - page_downloader.py - [line:67] - [INFO]: new url
+[2018-03-11 16:52:51,015] - page_downloader.py - [line:90] - [INFO]: request http://m.66ip.cn/7.html, times: 1
+[2018-03-11 16:52:51,027] - page_downloader.py - [line:67] - [INFO]: new url
+[2018-03-11 16:52:51,028] - page_downloader.py - [line:90] - [INFO]: request http://m.66ip.cn/6.html, times: 1
+[2018-03-11 16:52:51,039] - page_downloader.py - [line:67] - [INFO]: new url
+[2018-03-11 16:52:51,040] - page_downloader.py - [line:90] - [INFO]: request http://m.66ip.cn/5.html, times: 1
+[2018-03-11 16:52:51,041] - page_downloader.py - [line:67] - [INFO]: new url
+[2018-03-11 16:52:51,041] - page_downloader.py - [line:90] - [INFO]: request http://m.66ip.cn/4.html, times: 1
+[2018-03-11 16:52:51,053] - page_downloader.py - [line:67] - [INFO]: new url
+[2018-03-11 16:52:51,054] - page_downloader.py - [line:90] - [INFO]: request http://m.66ip.cn/3.html, times: 1
+[2018-03-11 16:52:51,055] - page_downloader.py - [line:67] - [INFO]: new url
+[2018-03-11 16:52:51,055] - page_downloader.py - [line:90] - [INFO]: request http://m.66ip.cn/2.html, times: 1
+[2018-03-11 16:52:51,067] - page_downloader.py - [line:67] - [INFO]: new url
+[2018-03-11 16:52:51,067] - page_downloader.py - [line:90] - [INFO]: request http://m.66ip.cn/1.html, times: 1
+[2018-03-11 16:52:51,068] - page_downloader.py - [line:67] - [INFO]: new url
+[2018-03-11 16:52:51,068] - page_downloader.py - [line:90] - [INFO]: request http://www.xicidaili.com/nn/9, times: 1
+[2018-03-11 16:52:51,069] - page_downloader.py - [line:67] - [INFO]: new url
+[2018-03-11 16:52:51,070] - page_downloader.py - [line:90] - [INFO]: request http://www.xicidaili.com/nn/8, times: 1
+[2018-03-11 16:52:51,147] - page_downloader.py - [line:67] - [INFO]: new url
+[2018-03-11 16:52:51,148] - page_downloader.py - [line:90] - [INFO]: request http://www.xicidaili.com/nn/7, times: 1
+[2018-03-11 16:52:51,149] - page_downloader.py - [line:67] - [INFO]: new url
+[2018-03-11 16:52:51,149] - page_downloader.py - [line:90] - [INFO]: request http://www.xicidaili.com/nn/6, times: 1
+[2018-03-11 16:52:51,162] - page_downloader.py - [line:67] - [INFO]: new url
+[2018-03-11 16:52:51,162] - page_downloader.py - [line:90] - [INFO]: request http://www.xicidaili.com/nn/5, times: 1
+[2018-03-11 16:52:51,163] - page_downloader.py - [line:67] - [INFO]: new url
+[2018-03-11 16:52:51,164] - page_downloader.py - [line:90] - [INFO]: request http://www.xicidaili.com/nn/4, times: 1
+[2018-03-11 16:52:51,165] - page_downloader.py - [line:67] - [INFO]: new url
+[2018-03-11 16:52:51,165] - page_downloader.py - [line:90] - [INFO]: request http://www.xicidaili.com/nn/3, times: 1
+[2018-03-11 16:52:51,179] - page_downloader.py - [line:67] - [INFO]: new url
+[2018-03-11 16:52:51,180] - page_downloader.py - [line:90] - [INFO]: request http://www.xicidaili.com/nn/2, times: 1
+[2018-03-11 16:52:51,193] - page_downloader.py - [line:67] - [INFO]: new url
+[2018-03-11 16:52:51,193] - page_downloader.py - [line:90] - [INFO]: request http://www.xicidaili.com/nn/1, times: 1
+[2018-03-11 16:52:51,261] - page_downloader.py - [line:127] - [ERROR]: status code is 503
+[2018-03-11 16:52:51,261] - page_downloader.py - [line:132] - [ERROR]: status code not in the code in config.py, check your log
+[2018-03-11 16:52:51,261] - page_downloader.py - [line:134] - [WARNING]: retrying request: [http://www.data5u.com/free/gnpt/index.shtml], times: 1
+[2018-03-11 16:52:51,261] - page_downloader.py - [line:90] - [INFO]: request http://www.data5u.com/free/gnpt/index.shtml, times: 2
+[2018-03-11 16:52:51,721] - page_downloader.py - [line:139] - [INFO]: [http://www.data5u.com/free/gwgn/index.shtml] has requested successfully
+[2018-03-11 16:52:51,731] - page_downloader.py - [line:139] - [INFO]: [http://www.data5u.com/free/gwpt/index.shtml] has requested successfully
+[2018-03-11 16:52:51,884] - page_downloader.py - [line:139] - [INFO]: [http://www.data5u.com/free/gngn/index.shtml] has requested successfully
+[2018-03-11 16:52:51,960] - page_downloader.py - [line:139] - [INFO]: [http://m.66ip.cn/8.html] has requested successfully
+[2018-03-11 16:52:51,986] - page_downloader.py - [line:139] - [INFO]: [http://m.66ip.cn/5.html] has requested successfully
+[2018-03-11 16:52:51,988] - page_downloader.py - [line:139] - [INFO]: [http://m.66ip.cn/4.html] has requested successfully
+[2018-03-11 16:52:51,990] - page_downloader.py - [line:139] - [INFO]: [http://www.xicidaili.com/nn/8] has requested successfully
+[2018-03-11 16:52:52,001] - page_downloader.py - [line:139] - [INFO]: [http://m.66ip.cn/1.html] has requested successfully
+[2018-03-11 16:52:52,010] - page_downloader.py - [line:139] - [INFO]: [http://m.66ip.cn/9.html] has requested successfully
+[2018-03-11 16:52:52,012] - page_downloader.py - [line:139] - [INFO]: [http://m.66ip.cn/7.html] has requested successfully
+[2018-03-11 16:52:52,014] - page_downloader.py - [line:139] - [INFO]: [http://m.66ip.cn/6.html] has requested successfully
+[2018-03-11 16:52:52,016] - page_downloader.py - [line:139] - [INFO]: [http://www.data5u.com/free/gnpt/index.shtml] has requested successfully
+[2018-03-11 16:52:52,016] - page_downloader.py - [line:139] - [INFO]: [http://m.66ip.cn/3.html] has requested successfully
+[2018-03-11 16:52:52,018] - page_downloader.py - [line:139] - [INFO]: [http://m.66ip.cn/2.html] has requested successfully
+[2018-03-11 16:52:52,018] - get_proxies_base_spider.py - [line:143] - [ERROR]: There Are No Available From [66ip] Can Be Used To Check, Please Check!!!!!!!
+[2018-03-11 16:52:52,022] - page_downloader.py - [line:139] - [INFO]: [http://www.xicidaili.com/nn/9] has requested successfully
+[2018-03-11 16:52:52,104] - page_downloader.py - [line:139] - [INFO]: [http://www.xicidaili.com/nn/6] has requested successfully
+[2018-03-11 16:52:52,166] - page_downloader.py - [line:139] - [INFO]: [http://www.xicidaili.com/nn/7] has requested successfully
+[2018-03-11 16:52:52,342] - page_downloader.py - [line:139] - [INFO]: [http://www.xicidaili.com/nn/3] has requested successfully
+[2018-03-11 16:52:52,345] - page_downloader.py - [line:139] - [INFO]: [http://www.xicidaili.com/nn/2] has requested successfully
+[2018-03-11 16:52:52,438] - page_downloader.py - [line:139] - [INFO]: [http://www.xicidaili.com/nn/5] has requested successfully
+[2018-03-11 16:52:52,575] - page_downloader.py - [line:139] - [INFO]: [http://www.xicidaili.com/nn/4] has requested successfully
+[2018-03-11 16:52:52,761] - page_downloader.py - [line:139] - [INFO]: [http://www.xicidaili.com/nn/1] has requested successfully
+[2018-03-11 16:52:52,875] - threads.py - [line:113] - [INFO]: AT 2018-03-11 16:52:52 ,work queue size is [1017]
+[2018-03-11 16:52:52,875] - threads.py - [line:116] - [INFO]: AT 2018-03-11 16:52:52 ,save queue size is [0]
+[2018-03-11 16:52:52,875] - threads.py - [line:120] - [INFO]: work threading total count is [50], active count is [50]
+[2018-03-11 16:52:52,876] - threads.py - [line:124] - [INFO]: save threading total count is [100], active count is [100]
+[2018-03-11 16:52:54,906] - threads.py - [line:113] - [INFO]: AT 2018-03-11 16:52:54 ,work queue size is [1113]
+[2018-03-11 16:52:56,193] - threads.py - [line:116] - [INFO]: AT 2018-03-11 16:52:54 ,save queue size is [0]
+[2018-03-11 16:52:56,193] - threads.py - [line:120] - [INFO]: work threading total count is [50], active count is [50]
+[2018-03-11 16:52:56,194] - threads.py - [line:124] - [INFO]: save threading total count is [100], active count is [100]
+[2018-03-11 16:52:56,284] - get_proxies_base_spider.py - [line:155] - [INFO]: [200.27.173.202:8080] can visit the target url [https://httpbin.org/get], source is [66ip]
+[2018-03-11 16:52:58,222] - threads.py - [line:113] - [INFO]: AT 2018-03-11 16:52:58 ,work queue size is [1034]
+[2018-03-11 16:52:58,222] - threads.py - [line:116] - [INFO]: AT 2018-03-11 16:52:58 ,save queue size is [0]
+[2018-03-11 16:52:58,222] - threads.py - [line:120] - [INFO]: work threading total count is [50], active count is [50]
+[2018-03-11 16:52:58,222] - threads.py - [line:124] - [INFO]: save threading total count is [100], active count is [100]
+[2018-03-11 16:52:58,959] - get_proxies_base_spider.py - [line:155] - [INFO]: [71.13.112.152:3128] can visit the target url [https://httpbin.org/get], source is [66ip]
+[2018-03-11 16:53:00,258] - threads.py - [line:113] - [INFO]: AT 2018-03-11 16:53:00 ,work queue size is [1025]
+[2018-03-11 16:53:00,258] - threads.py - [line:116] - [INFO]: AT 2018-03-11 16:53:00 ,save queue size is [0]
+[2018-03-11 16:53:00,258] - threads.py - [line:120] - [INFO]: work threading total count is [50], active count is [50]
+[2018-03-11 16:53:00,258] - threads.py - [line:124] - [INFO]: save threading total count is [100], active count is [100]
+[2018-03-11 16:53:02,297] - threads.py - [line:113] - [INFO]: AT 2018-03-11 16:53:02 ,work queue size is [999]
+[2018-03-11 16:53:03,708] - threads.py - [line:116] - [INFO]: AT 2018-03-11 16:53:02 ,save queue size is [0]
+[2018-03-11 16:53:03,708] - threads.py - [line:120] - [INFO]: work threading total count is [50], active count is [50]
+[2018-03-11 16:53:03,709] - threads.py - [line:124] - [INFO]: save threading total count is [100], active count is [100]
+[2018-03-11 16:53:05,757] - threads.py - [line:113] - [INFO]: AT 2018-03-11 16:53:05 ,work queue size is [968]
+[2018-03-11 16:53:07,105] - threads.py - [line:116] - [INFO]: AT 2018-03-11 16:53:05 ,save queue size is [0]
+[2018-03-11 16:53:07,105] - threads.py - [line:120] - [INFO]: work threading total count is [50], active count is [50]
+[2018-03-11 16:53:07,105] - threads.py - [line:124] - [INFO]: save threading total count is [100], active count is [100]
+[2018-03-11 16:53:09,211] - threads.py - [line:113] - [INFO]: AT 2018-03-11 16:53:09 ,work queue size is [908]
+[2018-03-11 16:53:09,211] - threads.py - [line:116] - [INFO]: AT 2018-03-11 16:53:09 ,save queue size is [0]
+[2018-03-11 16:53:09,211] - threads.py - [line:120] - [INFO]: work threading total count is [50], active count is [50]
+[2018-03-11 16:53:09,212] - threads.py - [line:124] - [INFO]: save threading total count is [100], active count is [100]
+[2018-03-11 16:53:11,230] - threads.py - [line:113] - [INFO]: AT 2018-03-11 16:53:11 ,work queue size is [906]
+[2018-03-11 16:53:11,230] - threads.py - [line:116] - [INFO]: AT 2018-03-11 16:53:11 ,save queue size is [0]
+[2018-03-11 16:53:11,230] - threads.py - [line:120] - [INFO]: work threading total count is [50], active count is [50]
+[2018-03-11 16:53:11,230] - threads.py - [line:124] - [INFO]: save threading total count is [100], active count is [100]
+[2018-03-11 16:53:13,256] - threads.py - [line:113] - [INFO]: AT 2018-03-11 16:53:13 ,work queue size is [853]
+[2018-03-11 16:53:13,256] - threads.py - [line:116] - [INFO]: AT 2018-03-11 16:53:13 ,save queue size is [0]
+[2018-03-11 16:53:13,256] - threads.py - [line:120] - [INFO]: work threading total count is [50], active count is [50]
+[2018-03-11 16:53:13,256] - threads.py - [line:124] - [INFO]: save threading total count is [100], active count is [100]
+[2018-03-11 16:53:15,282] - threads.py - [line:113] - [INFO]: AT 2018-03-11 16:53:15 ,work queue size is [837]
+[2018-03-11 16:53:16,552] - threads.py - [line:116] - [INFO]: AT 2018-03-11 16:53:15 ,save queue size is [0]
+[2018-03-11 16:53:16,552] - threads.py - [line:120] - [INFO]: work threading total count is [50], active count is [50]
+[2018-03-11 16:53:16,553] - threads.py - [line:124] - [INFO]: save threading total count is [100], active count is [100]
+[2018-03-11 16:53:18,632] - threads.py - [line:113] - [INFO]: AT 2018-03-11 16:53:18 ,work queue size is [785]
+[2018-03-11 16:53:19,953] - threads.py - [line:116] - [INFO]: AT 2018-03-11 16:53:18 ,save queue size is [0]
+[2018-03-11 16:53:19,953] - threads.py - [line:120] - [INFO]: work threading total count is [50], active count is [50]
+[2018-03-11 16:53:19,954] - threads.py - [line:124] - [INFO]: save threading total count is [100], active count is [100]
+[2018-03-11 16:53:22,000] - threads.py - [line:113] - [INFO]: AT 2018-03-11 16:53:21 ,work queue size is [770]
+[2018-03-11 16:53:22,000] - threads.py - [line:116] - [INFO]: AT 2018-03-11 16:53:21 ,save queue size is [0]
+[2018-03-11 16:53:22,000] - threads.py - [line:120] - [INFO]: work threading total count is [50], active count is [50]
+[2018-03-11 16:53:22,000] - threads.py - [line:124] - [INFO]: save threading total count is [100], active count is [100]
+[2018-03-11 16:53:24,041] - threads.py - [line:113] - [INFO]: AT 2018-03-11 16:53:24 ,work queue size is [705]
+[2018-03-11 16:53:24,041] - threads.py - [line:116] - [INFO]: AT 2018-03-11 16:53:24 ,save queue size is [0]
+[2018-03-11 16:53:24,041] - threads.py - [line:120] - [INFO]: work threading total count is [50], active count is [50]
+[2018-03-11 16:53:24,042] - threads.py - [line:124] - [INFO]: save threading total count is [100], active count is [100]
+[2018-03-11 16:53:26,133] - threads.py - [line:113] - [INFO]: AT 2018-03-11 16:53:26 ,work queue size is [690]
+[2018-03-11 16:53:26,155] - threads.py - [line:116] - [INFO]: AT 2018-03-11 16:53:26 ,save queue size is [0]
+[2018-03-11 16:53:26,155] - threads.py - [line:120] - [INFO]: work threading total count is [50], active count is [50]
+[2018-03-11 16:53:26,156] - threads.py - [line:124] - [INFO]: save threading total count is [100], active count is [100]
+[2018-03-11 16:53:28,228] - threads.py - [line:113] - [INFO]: AT 2018-03-11 16:53:28 ,work queue size is [640]
+[2018-03-11 16:53:29,593] - threads.py - [line:116] - [INFO]: AT 2018-03-11 16:53:28 ,save queue size is [0]
+[2018-03-11 16:53:29,593] - threads.py - [line:120] - [INFO]: work threading total count is [50], active count is [50]
+[2018-03-11 16:53:29,593] - threads.py - [line:124] - [INFO]: save threading total count is [100], active count is [100]
+[2018-03-11 16:53:31,618] - threads.py - [line:113] - [INFO]: AT 2018-03-11 16:53:31 ,work queue size is [620]
+[2018-03-11 16:53:32,893] - threads.py - [line:116] - [INFO]: AT 2018-03-11 16:53:31 ,save queue size is [0]
+[2018-03-11 16:53:32,893] - threads.py - [line:120] - [INFO]: work threading total count is [50], active count is [50]
+[2018-03-11 16:53:32,894] - threads.py - [line:124] - [INFO]: save threading total count is [100], active count is [100]
+[2018-03-11 16:53:34,949] - threads.py - [line:113] - [INFO]: AT 2018-03-11 16:53:34 ,work queue size is [526]
+[2018-03-11 16:53:34,949] - threads.py - [line:116] - [INFO]: AT 2018-03-11 16:53:34 ,save queue size is [0]
+[2018-03-11 16:53:34,949] - threads.py - [line:120] - [INFO]: work threading total count is [50], active count is [50]
+[2018-03-11 16:53:34,949] - threads.py - [line:124] - [INFO]: save threading total count is [100], active count is [100]
+[2018-03-11 16:53:36,629] - get_proxies_base_spider.py - [line:155] - [INFO]: [27.209.166.55:61234] can visit the target url [https://httpbin.org/get], source is [xicidaili]
+[2018-03-11 16:53:37,027] - threads.py - [line:113] - [INFO]: AT 2018-03-11 16:53:37 ,work queue size is [522]
+[2018-03-11 16:53:37,027] - threads.py - [line:116] - [INFO]: AT 2018-03-11 16:53:37 ,save queue size is [0]
+[2018-03-11 16:53:37,027] - threads.py - [line:120] - [INFO]: work threading total count is [50], active count is [50]
+[2018-03-11 16:53:37,027] - threads.py - [line:124] - [INFO]: save threading total count is [100], active count is [100]
+[2018-03-11 16:53:39,055] - threads.py - [line:113] - [INFO]: AT 2018-03-11 16:53:39 ,work queue size is [460]
+[2018-03-11 16:53:39,055] - threads.py - [line:116] - [INFO]: AT 2018-03-11 16:53:39 ,save queue size is [0]
+[2018-03-11 16:53:39,055] - threads.py - [line:120] - [INFO]: work threading total count is [50], active count is [50]
+[2018-03-11 16:53:39,055] - threads.py - [line:124] - [INFO]: save threading total count is [100], active count is [100]
+[2018-03-11 16:53:41,161] - threads.py - [line:113] - [INFO]: AT 2018-03-11 16:53:41 ,work queue size is [448]
+[2018-03-11 16:53:41,161] - threads.py - [line:116] - [INFO]: AT 2018-03-11 16:53:41 ,save queue size is [0]
+[2018-03-11 16:53:41,161] - threads.py - [line:120] - [INFO]: work threading total count is [50], active count is [50]
+[2018-03-11 16:53:41,162] - threads.py - [line:124] - [INFO]: save threading total count is [100], active count is [100]
+[2018-03-11 16:53:43,222] - threads.py - [line:113] - [INFO]: AT 2018-03-11 16:53:43 ,work queue size is [420]
+[2018-03-11 16:53:44,541] - threads.py - [line:116] - [INFO]: AT 2018-03-11 16:53:43 ,save queue size is [0]
+[2018-03-11 16:53:44,542] - threads.py - [line:120] - [INFO]: work threading total count is [50], active count is [50]
+[2018-03-11 16:53:44,542] - threads.py - [line:124] - [INFO]: save threading total count is [100], active count is [100]
+[2018-03-11 16:53:46,620] - threads.py - [line:113] - [INFO]: AT 2018-03-11 16:53:46 ,work queue size is [378]
+[2018-03-11 16:53:46,620] - threads.py - [line:116] - [INFO]: AT 2018-03-11 16:53:46 ,save queue size is [0]
+[2018-03-11 16:53:46,620] - threads.py - [line:120] - [INFO]: work threading total count is [50], active count is [50]
+[2018-03-11 16:53:46,620] - threads.py - [line:124] - [INFO]: save threading total count is [100], active count is [100]
+[2018-03-11 16:53:48,623] - threads.py - [line:113] - [INFO]: AT 2018-03-11 16:53:48 ,work queue size is [318]
+[2018-03-11 16:53:49,983] - threads.py - [line:116] - [INFO]: AT 2018-03-11 16:53:48 ,save queue size is [0]
+[2018-03-11 16:53:49,983] - threads.py - [line:120] - [INFO]: work threading total count is [50], active count is [50]
+[2018-03-11 16:53:49,984] - threads.py - [line:124] - [INFO]: save threading total count is [100], active count is [100]
+[2018-03-11 16:53:52,034] - threads.py - [line:113] - [INFO]: AT 2018-03-11 16:53:52 ,work queue size is [299]
+[2018-03-11 16:53:52,034] - threads.py - [line:116] - [INFO]: AT 2018-03-11 16:53:52 ,save queue size is [0]
+[2018-03-11 16:53:52,034] - threads.py - [line:120] - [INFO]: work threading total count is [50], active count is [50]
+[2018-03-11 16:53:52,035] - threads.py - [line:124] - [INFO]: save threading total count is [100], active count is [100]
+[2018-03-11 16:53:54,081] - threads.py - [line:113] - [INFO]: AT 2018-03-11 16:53:54 ,work queue size is [250]
+[2018-03-11 16:53:54,081] - threads.py - [line:116] - [INFO]: AT 2018-03-11 16:53:54 ,save queue size is [0]
+[2018-03-11 16:53:54,081] - threads.py - [line:120] - [INFO]: work threading total count is [50], active count is [50]
+[2018-03-11 16:53:54,081] - threads.py - [line:124] - [INFO]: save threading total count is [100], active count is [100]
+[2018-03-11 16:53:56,137] - threads.py - [line:113] - [INFO]: AT 2018-03-11 16:53:56 ,work queue size is [231]
+[2018-03-11 16:53:56,137] - threads.py - [line:116] - [INFO]: AT 2018-03-11 16:53:56 ,save queue size is [0]
+[2018-03-11 16:53:56,137] - threads.py - [line:120] - [INFO]: work threading total count is [50], active count is [50]
+[2018-03-11 16:53:56,137] - threads.py - [line:124] - [INFO]: save threading total count is [100], active count is [100]
+[2018-03-11 16:53:58,150] - threads.py - [line:113] - [INFO]: AT 2018-03-11 16:53:58 ,work queue size is [213]
+[2018-03-11 16:53:58,183] - threads.py - [line:116] - [INFO]: AT 2018-03-11 16:53:58 ,save queue size is [0]
+[2018-03-11 16:53:58,183] - threads.py - [line:120] - [INFO]: work threading total count is [50], active count is [50]
+[2018-03-11 16:53:58,184] - threads.py - [line:124] - [INFO]: save threading total count is [100], active count is [100]
+[2018-03-11 16:54:00,205] - threads.py - [line:113] - [INFO]: AT 2018-03-11 16:54:00 ,work queue size is [178]
+[2018-03-11 16:54:01,542] - threads.py - [line:116] - [INFO]: AT 2018-03-11 16:54:00 ,save queue size is [0]
+[2018-03-11 16:54:01,543] - threads.py - [line:120] - [INFO]: work threading total count is [50], active count is [50]
+[2018-03-11 16:54:01,543] - threads.py - [line:124] - [INFO]: save threading total count is [100], active count is [100]
+[2018-03-11 16:54:01,559] - get_proxies_base_spider.py - [line:155] - [INFO]: [37.59.62.38:8080] can visit the target url [https://www.baidu.com], source is [66ip]
+[2018-03-11 16:54:01,815] - get_proxies_base_spider.py - [line:155] - [INFO]: [101.37.79.125:3128] can visit the target url [https://httpbin.org/get], source is [66ip]
+[2018-03-11 16:54:01,898] - get_proxies_base_spider.py - [line:155] - [INFO]: [101.37.79.125:3128] can visit the target url [https://www.baidu.com], source is [66ip]
+[2018-03-11 16:54:03,571] - threads.py - [line:113] - [INFO]: AT 2018-03-11 16:54:03 ,work queue size is [143]
+[2018-03-11 16:54:04,949] - threads.py - [line:116] - [INFO]: AT 2018-03-11 16:54:03 ,save queue size is [0]
+[2018-03-11 16:54:04,949] - threads.py - [line:120] - [INFO]: work threading total count is [50], active count is [50]
+[2018-03-11 16:54:04,949] - threads.py - [line:124] - [INFO]: save threading total count is [100], active count is [100]
+[2018-03-11 16:54:06,995] - threads.py - [line:113] - [INFO]: AT 2018-03-11 16:54:06 ,work queue size is [104]
+[2018-03-11 16:54:06,995] - threads.py - [line:116] - [INFO]: AT 2018-03-11 16:54:06 ,save queue size is [0]
+[2018-03-11 16:54:06,995] - threads.py - [line:120] - [INFO]: work threading total count is [50], active count is [50]
+[2018-03-11 16:54:06,996] - threads.py - [line:124] - [INFO]: save threading total count is [100], active count is [100]
+[2018-03-11 16:54:07,327] - get_proxies_base_spider.py - [line:155] - [INFO]: [122.154.46.146:8080] can visit the target url [https://httpbin.org/get], source is [66ip]
+[2018-03-11 16:54:08,453] - get_proxies_base_spider.py - [line:155] - [INFO]: [37.59.62.38:8080] can visit the target url [https://httpbin.org/get], source is [66ip]
+[2018-03-11 16:54:08,587] - get_proxies_base_spider.py - [line:155] - [INFO]: [200.27.173.202:8080] can visit the target url [https://www.baidu.com], source is [66ip]
+[2018-03-11 16:54:09,045] - threads.py - [line:113] - [INFO]: AT 2018-03-11 16:54:09 ,work queue size is [66]
+[2018-03-11 16:54:09,045] - threads.py - [line:116] - [INFO]: AT 2018-03-11 16:54:09 ,save queue size is [0]
+[2018-03-11 16:54:09,045] - threads.py - [line:120] - [INFO]: work threading total count is [50], active count is [50]
+[2018-03-11 16:54:09,046] - threads.py - [line:124] - [INFO]: save threading total count is [100], active count is [100]
+[2018-03-11 16:54:09,355] - get_proxies_base_spider.py - [line:155] - [INFO]: [89.236.17.108:3128] can visit the target url [https://httpbin.org/get], source is [66ip]
+[2018-03-11 16:54:11,086] - threads.py - [line:113] - [INFO]: AT 2018-03-11 16:54:11 ,work queue size is [38]
+[2018-03-11 16:54:11,519] - get_proxies_base_spider.py - [line:155] - [INFO]: [89.236.17.108:3128] can visit the target url [https://www.baidu.com], source is [66ip]
+[2018-03-11 16:54:12,386] - threads.py - [line:116] - [INFO]: AT 2018-03-11 16:54:11 ,save queue size is [0]
+[2018-03-11 16:54:12,386] - threads.py - [line:120] - [INFO]: work threading total count is [50], active count is [50]
+[2018-03-11 16:54:12,386] - threads.py - [line:124] - [INFO]: save threading total count is [100], active count is [100]
+[2018-03-11 16:54:13,174] - get_proxies_base_spider.py - [line:155] - [INFO]: [190.147.208.143:8080] can visit the target url [https://httpbin.org/get], source is [66ip]
+[2018-03-11 16:54:19,481] - get_proxies_base_spider.py - [line:155] - [INFO]: [71.13.112.152:3128] can visit the target url [https://www.baidu.com], source is [66ip]
+[2018-03-11 16:54:33,805] - get_proxies_base_spider.py - [line:155] - [INFO]: [41.65.89.35:8080] can visit the target url [https://www.baidu.com], source is [66ip]
+[2018-03-11 16:54:38,119] - work_spider.py - [line:42] - [INFO]: All Job Finishing, Please Check!
